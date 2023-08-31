@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "title": "Iphone 20 Pro 1 TB",
+      "images": [
+        "https://www.istore.kg/media/products/iphone-14-pro-finish-select-202209-6-7inch-spaceblack_KVl27v8.webp"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Iphone 14 Pro Max 256 GB",
+      "images": [
+        "https://www.istore.kg/media/products/iphone-14-pro-finish-select-202209-6-7inch-spaceblack_KVl27v8.webp"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Iphone 20 Pro 1 TB",
+      "images": [
+        "https://www.istore.kg/media/products/iphone-14-pro-finish-select-202209-6-7inch-spaceblack_KVl27v8.webp"
+      ],
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "aalymbekov@gmail.com",
+      "password": "$2a$10$kKGzcSg97.CZMAuDBSzxoOQb7x3JOQE1M8F/O.H.ypMU/yZHarunq",
+      "id": 1
+    },
+    {
+      "email": "aalymbekov@mail.ru",
+      "password": "$2a$10$s7zUkHoZ49E7xLpQaEeKSOZM.Kg2IoZwJFE3dX3YDshj6HmJT22ae",
+      "id": 2
+    },
+    {
+      "email": "aalymbekov@ail.ru",
+      "password": "$2a$10$7h2LAJf19bmAuVoziGz5vuCQ0PzTsbjhLlAVas5cG7WgNvKlI1Dy6",
+      "id": 3
+    },
+    {
+      "email": "emir@gmail.com",
+      "password": "$2a$10$N7pqW9nRooViRYgj0UzEDuAv9nQhBlHGYY7iBfVtaq96NlsWrsnuy",
+      "id": 4
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$fZcxXViNnGwaqvRtKO7Kr.aubJpP/Of5Y.4T8tcSgoRUNCQb11asO",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+@import './reset.css';
+@import './variables/global';
+@import './themes/dark';
+@import './themes/light';
+
+.app {
+    font: var(--font-m);
+    color: var(--primary-color);
+    background: var(--bg-color);
+    min-height: 100vh;
+    user-select: none;
+}
+
+.content_page {
+    display: flex;
+}
+
+.page_wrapper {
+    flex-grow: 1;
+    padding: 8px 20px;
+}
+
+::-webkit-scrollbar {
+    background-color: var(--bg-color);
+    width: 3px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-color);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--inverted-bg-color);
+}
